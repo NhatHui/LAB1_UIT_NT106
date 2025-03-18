@@ -1,0 +1,42 @@
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai1.resources
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.bai3.resources
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai5.resources
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lab1.resources
+D:\UIT\HK2\LTMCB\Thuc Hanh\lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai2.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai1.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai2.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai3.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai5.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\nt106\TH\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\nt106\TH\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\nt106\TH\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai1.resources
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai2.resources
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai3.resources
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai5.resources
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\nt106\TH\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
